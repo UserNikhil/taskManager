@@ -20,10 +20,15 @@ A full-stack Task Manager application built with **Java (Spring Boot)** and **Re
 Here’s a visual preview of the app interface:
 
 ### Task Manager UI Example
-![Task Manager App Screenshots Design](![alt text](image.png))
+![Task Manager App Screenshots Design]
+<img width="1072" height="547" alt="image" src="https://github.com/user-attachments/assets/8f2f1a1a-7e6c-438c-8a0e-2f48a02049ae" />
+
 
 ### Task Management Interface
-![Task Management App Interface](![alt text](image-1.png))(![alt text](image-2.png))
+![Task Management App Interface]
+<img width="1081" height="437" alt="image" src="https://github.com/user-attachments/assets/62b02f6e-6f86-441d-81d0-489cc7f7fab5" />
+
+<img width="893" height="163" alt="image" src="https://github.com/user-attachments/assets/7fd635cc-ba7d-4056-a59f-93430b5c44fe" />
 
 ---
 
